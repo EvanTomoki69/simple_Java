@@ -1,4 +1,12 @@
-# simple_Java
+# automationTestJava
 This repo was intended to host my school projects, anyways, now it serves for another whole purpose. 
-Here you can find my selenium automation projects, and some other projects using Java language and Selenium library.
-Here you can find projects that might serve (or not) as inspiration, but surely this will be useful for others and myself in the future.
+Here you can find my testing projects using Java porgramming language and Selenium library, I hope to build it and develop good practices ASAP.
+Feel free to contribute to this branch.
+
+Projects held in this branch:
+Selenium Automation
+Selenium Web Automation with Docker
+Selenium Automation Framework with Docker
+Behavior Driven Development Implementation
+
+Every project will contain their own readme file so keep in touch with the updates
